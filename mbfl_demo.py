@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# mbfl_demo.py  — Mutation-Based Fault Localization (precise operator targeting)
+# mbfl_demo.py  — Mutation-Based Fault Localization
 
 import ast
 import copy
